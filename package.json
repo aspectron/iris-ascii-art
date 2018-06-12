@@ -15,7 +15,7 @@
   "dependencies": {
     "browser-request": "0.3.3",
     "dirname-shim": "1.0.0",
-    "request": "2.79.0",
+    "request": "*",
     "yargs": "*"
   },
   "deprecated": false,
