@@ -36,7 +36,7 @@ Why would I use this instead of X?
 Installation
 ------------
 
-	npm install ascii-art
+	npm install iris-ascii-art
 
 If you'd like to use the command-line tool make sure to use `-g`
 
